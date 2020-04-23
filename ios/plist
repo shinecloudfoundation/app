@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.thescds.wallet</string>
+				<string>io.shinecloudnetwork.wallet</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
